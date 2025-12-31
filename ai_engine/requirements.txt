@@ -1,0 +1,1 @@
+google-genai numpy requests python-dotenv
