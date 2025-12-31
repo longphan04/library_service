@@ -1,1 +1,4 @@
-google-genai numpy requests python-dotenv
+google-genai
+numpy
+requests
+python-dotenv
