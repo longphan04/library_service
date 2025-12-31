@@ -1,0 +1,46 @@
+SYSTEM CHECK INITIATED...
+Time: 2025-12-31 09:27:55
+--------------------------------------------------
+Models found: 35. Testing connectivity...
+
+
+
+MODEL NAME                                              | TYPE     | STATUS | TIME     | NOTE
+----------------------------------------------------------------------------------------------------
+models/embedding-gecko-001                              | EMBED    | FAIL   | 81ms     | 404 NOT_FOUND. {'error': {'code': 404, 'message': 
+models/gemini-2.5-flash                                 | CHAT     | PASS   | 2045ms   | 
+models/gemini-2.5-pro                                   | CHAT     | FAIL   | 78ms     | 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'm
+models/gemini-2.0-flash-exp                             | CHAT     | FAIL   | 68ms     | 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'm
+models/gemini-2.0-flash                                 | CHAT     | FAIL   | 87ms     | 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'm
+models/gemini-2.0-flash-001                             | CHAT     | FAIL   | 80ms     | 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'm
+models/gemini-2.0-flash-exp-image-generation            | CHAT     | FAIL   | 77ms     | 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'm
+models/gemini-2.0-flash-lite-001                        | CHAT     | FAIL   | 65ms     | 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'm
+models/gemini-2.0-flash-lite                            | CHAT     | FAIL   | 81ms     | 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'm
+models/gemini-2.0-flash-lite-preview-02-05              | CHAT     | FAIL   | 68ms     | 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'm
+models/gemini-2.0-flash-lite-preview                    | CHAT     | FAIL   | 63ms     | 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'm
+models/gemini-exp-1206                                  | CHAT     | FAIL   | 76ms     | 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'm
+models/gemini-2.5-flash-preview-tts                     | CHAT     | FAIL   | 229ms    | 400 INVALID_ARGUMENT. {'error': {'code': 400, 'mes
+models/gemini-2.5-pro-preview-tts                       | CHAT     | FAIL   | 89ms     | 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'm
+models/gemini-flash-latest                              | CHAT     | PASS   | 710ms    | 
+models/gemini-flash-lite-latest                         | CHAT     | PASS   | 668ms    | 
+models/gemini-pro-latest                                | CHAT     | FAIL   | 98ms     | 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'm
+models/gemini-2.5-flash-lite                            | CHAT     | PASS   | 599ms    | 
+models/gemini-2.5-flash-image-preview                   | CHAT     | FAIL   | 75ms     | 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'm
+models/gemini-2.5-flash-image                           | CHAT     | FAIL   | 68ms     | 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'm
+models/gemini-2.5-flash-preview-09-2025                 | CHAT     | PASS   | 951ms    | 
+models/gemini-2.5-flash-lite-preview-09-2025            | CHAT     | PASS   | 691ms    | 
+models/gemini-3-pro-preview                             | CHAT     | FAIL   | 80ms     | 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'm
+models/gemini-3-flash-preview                           | CHAT     | PASS   | 1268ms   | 
+models/gemini-3-pro-image-preview                       | CHAT     | FAIL   | 86ms     | 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'm
+models/gemini-robotics-er-1.5-preview                   | CHAT     | PASS   | 8514ms   | 
+models/gemini-2.5-computer-use-preview-10-2025          | CHAT     | FAIL   | 72ms     | 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'm
+models/embedding-001                                    | EMBED    | FAIL   | 70ms     | 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'm
+models/text-embedding-004                               | EMBED    | PASS   | 235ms    | 
+models/gemini-embedding-exp-03-07                       | EMBED    | PASS   | 743ms    | 
+models/gemini-embedding-exp                             | EMBED    | FAIL   | 360ms    | 500 INTERNAL. {'error': {'code': 500, 'message': '
+models/gemini-embedding-001                             | EMBED    | PASS   | 353ms    | 
+models/gemini-2.5-flash-native-audio-latest             | CHAT     | FAIL   | 69ms     | 404 NOT_FOUND. {'error': {'code': 404, 'message': 
+models/gemini-2.5-flash-native-audio-preview-09-2025    | CHAT     | FAIL   | 68ms     | 404 NOT_FOUND. {'error': {'code': 404, 'message': 
+models/gemini-2.5-flash-native-audio-preview-12-2025    | CHAT     | FAIL   | 74ms     | 404 NOT_FOUND. {'error': {'code': 404, 'message': 
+----------------------------------------------------------------------------------------------------
+TEST COMPLETED.
