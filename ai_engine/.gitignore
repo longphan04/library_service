@@ -1,10 +1,8 @@
-# Bỏ qua file môi trường chứa mật khẩu
 .env
 .venv
 env/
 venv/
 *.env
 
-# Cụ thể cho folder ai_engine (vì bạn vừa chuyển nó)
 ai_engine/.env
 ai_engine/venv/
