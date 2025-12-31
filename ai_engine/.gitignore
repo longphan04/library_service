@@ -1,0 +1,8 @@
+.env
+.venv
+env/
+venv/
+*.env
+
+ai_engine/.env
+ai_engine/venv/
